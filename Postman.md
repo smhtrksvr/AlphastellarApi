@@ -1,5 +1,5 @@
 # AlphastellarApi
-Postman Post
+Postman HTTPPost
 
 {
   "depo": {
